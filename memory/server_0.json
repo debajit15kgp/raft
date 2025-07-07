@@ -1,0 +1,1 @@
+{"currentTerm": 23, "votedFor": 0, "log": [{"term": 10, "key": "1", "value": "2"}, {"term": 22, "key": "1", "value": "2"}, {"term": 22, "key": "2", "value": "3"}, {"term": 23, "key": "3", "value": "4"}]}
